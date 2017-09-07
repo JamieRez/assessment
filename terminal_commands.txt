@@ -1,0 +1,9 @@
+Change directory : cd
+List items in current directory : ld?
+Print working directory : pd?
+Create a new file called “cookies.txt” : ?
+Create a new folder called “recipes” : ?
+Delete a file : del "filename" ?
+Stage a file in Git : ?
+Commit a file in Git : git commit -m "message"
+Push the file to the Git remote’s origin, on the master branch : git push origin master
