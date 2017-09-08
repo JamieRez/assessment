@@ -1,0 +1,12 @@
+
+Networking:
+A client goes to the website address. The server recieves that information and decides what to do next.
+
+:/
+
+
+Interpreted and Compiled Languages:
+Compiled : C++ , Java
+Interpreted : Javascript? Python?
+
+Algorithm: An Algorithm is a set of steps/processes that when used, will efficiently complete a desired task.
