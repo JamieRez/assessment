@@ -12,5 +12,14 @@ def fibonacci_iterative(num):
         prevNum = currentNum
         currentNum = sum
 
-
 fibonacci_iterative(userInput)
+
+#Recursion
+def factorial_recursive(num):
+    product = num
+    for number in range(num-1, 0, -1):
+        product = product * number
+    print(product)
+
+
+factorial_recursive(5)
