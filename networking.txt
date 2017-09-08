@@ -10,3 +10,7 @@ Compiled : C++ , Java
 Interpreted : Javascript? Python?
 
 Algorithm: An Algorithm is a set of steps/processes that when used, will efficiently complete a desired task.
+
+Collection Comparsion:
+    Array is in [] ex : ["james" , 19]
+    Tuple in () ex : ("james" , 19)
