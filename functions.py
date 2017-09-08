@@ -14,12 +14,6 @@ def fibonacci_iterative(num):
 
 fibonacci_iterative(userInput)
 
-#Recursion
-def factorial_recursive(num):
-    product = num
-    for number in range(num-1, 0, -1):
-        product = product * number
-    print(product)
 
-
-factorial_recursive(5)
+#Recursion:
+#After 30 minutes I realized I was going about it wrongly, I'm not sure how to do it
